@@ -26,7 +26,7 @@ flutter_icons:
   android: true
   ios: true
   adaptive_icon_foreground: "icon/adaptive_icon.png"
-  adaptive_icon_background: "#E4572E"
+  adaptive_icon_background: "#000000"
 
 flutter:
   uses-material-design: true
